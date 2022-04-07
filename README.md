@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 [^1]:first comment. <!--備註會顯示在最下面-->
 
 
-```
+```php
 <?php
 
 //資料庫 設定
